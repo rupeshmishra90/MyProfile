@@ -323,7 +323,7 @@ img.site-logo {
 .home {
   padding: 5rem 2rem;
   background: linear-gradient(to right, #ffffff, #f5f5f5);
-  background-image: url(img src='images/home.png');
+  background-image: url('images/home.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -521,7 +521,7 @@ img.site-logo {
 .projects {
   background-color: #ffffff;
   padding: 4rem 2rem;
-  background-image: url(img src='images/project.jpg');
+  background-image: url('images/banner.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -664,7 +664,7 @@ img.site-logo {
 .project-banner {
   width: 100%;
   min-height: 400px;
-  background: url(img src='images/home_banner.png alt="Project Banner') no-repeat center center/cover;
+  background: url('./images/home_banner.png') no-repeat center center/cover;
   display: flex;
   align-items: center;
 }
