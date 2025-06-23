@@ -443,7 +443,7 @@ img.site-logo {
 
 /* ===== About Section ===== */
 .about {
-  padding: 4rem 2rem;
+  padding: 100px 2rem;
   background-color: #f9f9f9;
 }
 
@@ -576,7 +576,7 @@ img.site-logo {
 /* ===== Contact Section ===== */
 .contact {
   background-color: #f4f4f4;
-  padding: 4rem 2rem;
+  padding: 100px 2rem;
 }
 
 .contact-container {
@@ -683,8 +683,8 @@ img.site-logo {
   text-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 .projects-section {
-  padding: 60px 20px 50px 20px;
-  background-color: #f9f9f9;
+  padding: 100px 20px 50px 20px;
+  background-color: #ffffff;
   text-align: center;
 }
 
@@ -795,4 +795,8 @@ img.site-logo {
 a:focus {
   outline: none;
   box-shadow: none;
+}
+
+#foreign_project{
+    background-color:#f9f9f9;
 }
